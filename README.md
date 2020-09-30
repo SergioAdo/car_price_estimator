@@ -6,3 +6,5 @@ Prend en input 12 features (14 au départ)
 R2 ~= 0.87  
 RMSLE ~= 0.39  
 RMSE ~= 3105.96  
+
+< img src="honda.png" width="500" height="800">
